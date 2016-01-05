@@ -6,7 +6,7 @@ This is the official support portal for [Lifebar.io](http://lifebar.io).
 ## How to enter issues and feature requests
 1. [Annonymously](https://gitreports.com/issue/rewphus/support)
 2. [With Github account](https://github.com/Lifebar/support/issues/new)
-3. [With Tidbits account](http://tidbits.io/new-topic?title=Lifebar%20Bug%20or%20Request:%20&body=Description:/&category=support/lifebar)
+3. [With Tidbits account](http://tidbits.io/new-topic?title=Lifebar%20Bug%20or%20Request:%20&body=Description:&category=support/lifebar)
 
 ## How to track ussues and feature requests
 1. [Track Github issues] (https://github.com/Lifebar/support/issues)
