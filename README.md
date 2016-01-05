@@ -1,4 +1,4 @@
-![alt tag](http://tidbits.io/uploads/default/original/1X/6b6380b21bb48a40e581cfe6d123d2e82c92701a.png)
+![alt tag](http://tidbits.io/uploads/default/original/1X/cd54fb7ded4c43c1484c1076bae5417fd803bf3f.png)
 
 # Welcome to the Lifebar Support Portal
 This is the official support portal for [Lifebar.io](http://lifebar.io).
